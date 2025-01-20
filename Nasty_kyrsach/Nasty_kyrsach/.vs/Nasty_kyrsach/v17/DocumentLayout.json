@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\motor\\Desktop\\Nasty_kyrsach\\Nasty_kyrsach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC79A0DF-447A-4D55-ACB9-43C11C636236}|Nasty_kyrsach\\Nasty_kyrsach.vcxproj|C:\\Users\\motor\\Desktop\\Nasty_kyrsach\\Nasty_kyrsach\\Nasty_kyrsach\\Nasty_kyrsach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC79A0DF-447A-4D55-ACB9-43C11C636236}|Nasty_kyrsach\\Nasty_kyrsach.vcxproj|solutionrelative:Nasty_kyrsach\\Nasty_kyrsach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Nasty_kyrsach.cpp",
+              "DocumentMoniker": "C:\\Users\\motor\\Desktop\\Nasty_kyrsach\\Nasty_kyrsach\\Nasty_kyrsach\\Nasty_kyrsach.cpp",
+              "RelativeDocumentMoniker": "Nasty_kyrsach\\Nasty_kyrsach.cpp",
+              "ToolTip": "C:\\Users\\motor\\Desktop\\Nasty_kyrsach\\Nasty_kyrsach\\Nasty_kyrsach\\Nasty_kyrsach.cpp",
+              "RelativeToolTip": "Nasty_kyrsach\\Nasty_kyrsach.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAGIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-19T09:09:26.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

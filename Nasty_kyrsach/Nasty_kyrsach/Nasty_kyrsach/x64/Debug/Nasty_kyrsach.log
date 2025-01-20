@@ -1,0 +1,4 @@
+﻿  Nasty_kyrsach.cpp
+C:\Users\motor\Desktop\Nasty_kyrsach\Nasty_kyrsach\Nasty_kyrsach\Nasty_kyrsach.cpp(35,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\motor\Desktop\Nasty_kyrsach\Nasty_kyrsach\Nasty_kyrsach\Nasty_kyrsach.cpp(83,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Nasty_kyrsach.vcxproj -> C:\Users\motor\Desktop\Nasty_kyrsach\Nasty_kyrsach\x64\Debug\Nasty_kyrsach.exe
